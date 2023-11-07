@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Harry
+- 👀 I’m interested in React, Typescript, Python, and Rust
+- 🌱 I’m currently learning Go
